@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Cristian 👋
 
-<!--
-**cristian436/cristian436** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Electronic Engineering student at **Politecnico di Torino**, coming from a computer science background.
+I'm interested in **microprocessor architectures, embedded systems and avionics** — on-board computers, rockets, satellites and drones.
 
-Here are some ideas to get you started:
+### 🔧 What I work with
+- **Embedded:** ESP32, Arduino, sensors & actuators, perfboard prototyping and soldering
+- **Languages:** C, C++, Python, Java, web technologies
+- **Currently learning:** PCB design (KiCad) and RF systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🏆 Highlights
+- 1st place (team leader) at the *Hack Your Talent* hackathon — Oasi Digitale, Ragusa
+
+### 📫 Contact
+s358144@studenti.polito.it
